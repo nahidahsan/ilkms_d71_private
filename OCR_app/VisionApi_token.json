@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "centered-rope-360309",
+  "private_key_id": "b16954b276f1e9768626fff421f99ab585355740",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDo7qI+uTln4QNU\nufP49tyggTigBAQVUH3s7q/1+IHkpmdVGpjLHTngztZHsqnfsBWDYkojXb800efs\nm/rrJ7YW4Fb8wpwD+gsS+39nh7THM9Kbud/robm7oK0H15mh2EHd84ZOReBDy2l8\nNw8gzFsBbUv5XaKMsSZOLflnIKIvpCeaV28g6MIxJajuTiAf699h8KQISOFX85rg\n4aPZU6Od8lSKzVg+CwxkQLLn5l1m/Tedn0dNTD+YZxtvIO3jiPtFDFJVzc85cILd\nR/YxSUz4AFL9GEP3OmymA7LwdD3jYH6J6R6uCunI7ZyUNhvcDaWNehe6hON0QRS8\nuhyWytSDAgMBAAECggEAcv8VJIhHWgyRm2uukjQ12hvRu9YfufIiKS3xuyqz3hF1\nJGPcGTLVlzImQgFnsmJ5TILi/TDULByRNpQPPbc+Q28AIwtlAOWaQAXf8VnjGxFv\noagTb35JduMtaZi8ZVWhtxT6Mnx26qFq84MvOc8KAttVzce3b2Qp+CDkZ1CKIaAl\nC8HmVFMylQrlWZ77TUb61WWGkEAvICJTmFruqlzqvscNWo9irVgXMFq7/TO7SRMp\nfD0lqXzlqlSk83DjCw59f/tXKt0b275LzeI31ZhqxS5EK6aOfDbB9ejAaWltWPSi\ntoOCiZIOy2PatbyBkfkw1L3UANcvs/a7BC+gvbWTWQKBgQD9+vmzEP58HYFadRTm\n0nwe5TUFDQZ9JM50cFGJlSf05ZEN1EqqewkRla41lSkeaWRo6F+yzbZ19QDE9eav\nGZriDY9+0IdvwQrgS2a/1teVdMJtt05Kxj5eqLqPtxKnC+WcY0RcdsriIvyQICTA\niTS/HrLczKBoxaWB6hN59/5m3wKBgQDqyM+RLRdbuwdviN0F90cxZkyElIVnq7U/\n7W/2hkG/s8japp3rLba8+CjTtZjGVrFi5JMD58bZoo8BH6ubl3o+SilmCZzQ8M/a\nMPyJE7sNZy1E7JSu+fwb0I9nTLRCDyiRNzO9c7fx1KZ1lhq/AYT4A6Q6gS9ZKilc\nWQz/ClK63QKBgFoKWe/TvIS/6RXqoChcwsgpNiy+O2iuXcsF7sI58NpvcIdYlcfu\nqn5jdElmwhcYAhL3HsZDC8axvz4Ud13oU/KEIDUzNHC4HWT7Fkg4oGFJ7Yv8CnOT\n6JSieNFuc9xo6VQSFTA6pR6ajLOD0cO4YMzI01xX5x59w3lVROZetwA9AoGAMhYm\n2cSxz/rlSjD7XdNz16EIP9xjXUtvPjUMBp57lkbnWWXkGJDHBCc4pnl+HwnNi9hR\nWKrwa+tW8JluBaJaDMHLdR4l2xkUbmq25RNVezWAncyOp4li9BgZD6N4bQNI1znc\nitUN78Q6wqkECa1sTXCRb32xuSbabf39XMc6AO0CgYEAlzzpv41trgK7iSSRAuxw\n0IzolhuSupmBf0vP8Izm1aPTJLmNeI9Fuxo49PjCyqZajS6pseDiCzxmrGPEm/Z0\n8Qqb7PgpOlWlMp91+B+aREg8iRqxdlGoDYZA9Odum60zVMnhYH7x3whOg/zyzQmD\nYBSYR3RncdEGiXxxfQHRT40=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi-service-account@centered-rope-360309.iam.gserviceaccount.com",
+  "client_id": "111656366904869335836",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi-service-account%40centered-rope-360309.iam.gserviceaccount.com"
+}
